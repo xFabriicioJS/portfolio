@@ -1,6 +1,7 @@
 import React from 'react'
 import { Button, ButtonGroup } from '@chakra-ui/react'
 
+
 function AboutMe() {
   return (
     <div className='flex items-center flex-col p-4 w-1/3 h-2/4 mt-2 mx-auto'>
